@@ -1,5 +1,5 @@
 ---
-title: How to install Xdebug on Homebrew
+title: TinyMCE Spellcheck Implmentation with Spring MVC
 layout: post
 date: 2014-02-17 16:55:16
 categories: java
