@@ -2,7 +2,7 @@ name: BKuhl
 author: BKuhl
 markdown: redcarpet
 highlighter: true
-baseurl: /
+baseurl: http://bkuhl.github.io
 description: Turning inspiration into code
 github: http://www.github.com/bkuhl
 twitter: http://www.twitter.com/bkuhlorelse
