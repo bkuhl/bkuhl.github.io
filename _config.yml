@@ -1,0 +1,13 @@
+name: BKuhl
+author: BKuhl
+markdown: redcarpet
+highlighter: true
+baseurl: /bkuhl.github.io
+description: Turning inspiration into code
+github: http://www.github.com/bkuhl
+twitter: http://www.twitter.com/bkuhlorelse
+email: benkuhl@gmail.com
+location: 42°2'16"N   70°12'47"W
+disqus: bkuhl
+
+##Make sure to edit the above fields, especially for disqus.
